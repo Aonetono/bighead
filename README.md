@@ -1,2 +1,5 @@
 # bighead
-git study
+---
+-xxxxxxxx
+-yyyyyyyy
+-zzzzzzzz
